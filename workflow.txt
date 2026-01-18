@@ -1,0 +1,24 @@
+Start
+│
+Input Source
+- Web page, text, or URL
+│
+Text Extraction
+- Pull raw text from input
+│
+LLM Understanding
+- Understand meaning and intent
+│
+Vector Search
+- Find related context
+│
+Context Retrieval
+- Get most relevant data
+│
+LLM Generation
+- Generate final content
+│
+Final Output
+- Email, text, or response
+│
+End
