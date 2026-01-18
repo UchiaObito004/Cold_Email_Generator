@@ -7,6 +7,8 @@ COPY requirements.txt .
 # Upgrade pip and install dependencies
 RUN pip install --upgrade pip
 RUN pip install --no-cache-dir -r requirements.txt
+RUN pip install --no-cache-dir \langchain \langchain-community
+
 
 # Copy application code
 COPY . .
