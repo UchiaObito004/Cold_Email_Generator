@@ -13,9 +13,9 @@ An AI-powered cold email generator that creates **personalised outreach emails f
 
 ## 🖥️ Demo
 
-![demo](https://github.com/UchiaObito004/Cold_Email_Generator/blob/main/demo.png?raw=true)
+![img1](https://github.com/UchiaObito004/Cold_Email_Generator/blob/main/img1.png?raw=true)
 
----
+![img2](https://github.com/UchiaObito004/Cold_Email_Generator/blob/main/img2.png?raw=true)
 
 ## 🧠 How It Works
 
