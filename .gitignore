@@ -1,1 +1,6 @@
 .env
+__pycache__/
+chroma/
+vectorstore/
+.DS_Store
+*.ipynb
