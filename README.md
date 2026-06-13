@@ -187,7 +187,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 - 🎓 B.Tech AI & Data Science — PIET (2023–2027)
 - 💼 GitHub: [UchiaObito004](https://github.com/UchiaObito004)
-- 🔗 LinkedIn: [linkedin.com/in/your-linkedin-id](https://www.linkedin.com/in/your-linkedin-id) <!-- Replace with your actual LinkedIn URL -->
+- 🔗 LinkedIn: [linkedin.com/in/your-linkedin-id](https://www.linkedin.com/in/bhushan-verma-420391385/) <!-- Replace with your actual LinkedIn URL -->
 
 ---
 
